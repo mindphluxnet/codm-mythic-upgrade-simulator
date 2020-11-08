@@ -1,13 +1,13 @@
 {
   "name": "mythicupgradecalc",
   "version": "1.0.0",
-  "description": "",
+  "description": "This script simulates pulls from the Mythic Upgrade crate and outputs the average cost.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js "
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Richard Kämmerer (CODM.GG)",
+  "license": "MIT",
   "dependencies": {
     "chance": "1.1.7",
     "minimist": "1.2.5"
