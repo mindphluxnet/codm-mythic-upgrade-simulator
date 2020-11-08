@@ -1,5 +1,5 @@
 # Mythic Upgrade Simulator for Call of Duty Mobile
-This script simulates pulls from the Mythic Upgrade crate and outputs the average cost.
+This script simulates pulls from the Mythic Upgrade crate and outputs the average cost. It's the same script I used to obtain the values used to create the [Mythic Upgrade Calculator](https://codm.gg/mythic-upgrade-calculator) on CODM.GG
 
 # Requirements
 
