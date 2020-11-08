@@ -23,3 +23,12 @@ All options can be set using the command line or simply left at default values. 
 For example, if you want to simulate 10000 runs with target level 3 at a CP price of 120 per pull, you'd use:
 
     node index.js -r 10000 -t 3 -p 120
+
+# Acknowledgements
+
+* Uses [Chance.js](https://chancejs.com) by Victor Quinn
+* Uses [Minimist](https://github.com/substack/minimist) by Substack
+
+# License
+
+MIT
